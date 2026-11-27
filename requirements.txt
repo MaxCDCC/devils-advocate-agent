@@ -1,0 +1,7 @@
+anthropic
+python-dotenv
+numpy
+fastembed
+pandas
+pyarrow
+huggingface_hub
